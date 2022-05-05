@@ -1,0 +1,101 @@
+Name,Length (meters),Width (meters),Average Wind speed (kmph),Pitch Type,Average Score,    Country
+Melbourne Cricket Ground,173,148,12,Green,222,    Australia
+Sydney Cricket Ground,156,154,15,Green,223,    Australia
+Adelaide Oval,190,126,14,Green,230,    Australia
+The Gabba,170,150,15,Green,228,    Australia
+WACA Ground,149,139,17,Dead,199,    Australia
+Bellerive Oval,175,135,17,Dead,205,    Australia
+NTCA Ground,160,131,18,Dusty,211,    Australia
+TCA Ground,150,144,17,Dusty,213,    Australia
+Junction Oval,140,136,15,Green,240,    Australia
+Devonport Oval,145,131,16,Dead,203,    Australia
+Eden Gardens,136,135,12,Dusty,251,       India
+M.A. Chidambaram Stadium,138,132,15,Dusty,241,       India
+Arun Jaitley Stadium,140,133,14,Dusty,234,       India
+Brabourne Stadium,136,135,17,Dead,188,       India
+Green Park Stadium,139,129,9,Green,263,       India
+M. Chinnaswamy Stadium,120,108,11,Green,307,       India
+Wankhede Stadium,140,140,11,Dusty,240,       India
+Barabati Stadium,134,130,7,Dusty,275,       India
+Saiwi Mansingh Stadium,130,122,10,Green,303,       India
+Narendra Modi Stadium,164,137,16,Dusty,239,       India
+Inderjit Singh Bindra Stadium,155,139,13,Dusty,310,       India
+Dr.Y.S.Rajasekhara Reddy International Cricket Stadium,148,133,11,Green,294,       India
+Rajiv Gandhi International Cricket Stadium,149,139,10,Green,277,       India
+Holkar Stadium,136,112,14,Dusty,307,       India
+Himachal Pradesh Cricket Association Stadium,110,128,21,Dead,214,       India
+Edgbaston,131,120,18,Dusty,232,      England
+Ageas Bowl,129,125,19,Dusty,242,      England
+Headingley,134,122,10,Dusty,229,      England
+Lord's,128,118,22,Green,238,      England
+The Oval,140,137,14,Green,248,      England
+Sophia Gardens,132,127,19,Dead,222,      England
+Trent Bridge,132,133,17,Green,254,      England
+The Riverside,125,97,8,Dead,245,      England
+Old Trafford,105,68,7,Dead,228,      England
+County Ground Bristol,111,120,10,Dusty,239,      England
+Eden Park,90,100,20,Dead,220,  New Zealand
+Sky Stadium,235,185,40,Green,233,  New Zealand
+Forsyth Barr Stadium,176,144,24,Green,232,  New Zealand
+Mt Smart Stadium,145,130,19,Dusty,236,  New Zealand
+Rotorua International Stadium,169,101,6,Dead,199,  New Zealand
+FMG Stadium Waikato,121,115,17,Dead,239,  New Zealand
+Yarrow Stadium,150,139,14,Dusty,206,  New Zealand
+North Harbour Stadium,148,159,16,Green,234,  New Zealand
+McLean Park,120,109,9,Green,361,  New Zealand
+Owen Delany Park,128,118,8,Green,289,  New Zealand
+Boland Park,170,163,8,Dead,146,  South Africa
+City Oval,147,133,22,Green,229,  South Africa
+Diamond Oval,154,132,31,Green,223,  South Africa
+KingsMead,167,146,10,Dusty,234,  South Africa
+Mangaung Oval,139,125,8,Dead,245,  South Africa
+Newlands,134,127,6,Green,353,  South Africa
+Senwes Park,146,132,18,Dusty,225,  South Africa
+St George's Park,132,121,33,Dusty,233,  South Africa
+Supersport Park,155,134,14,Green,246,  South Africa
+The Wanderers Stadium,178,145,12,Dusty,235,  South Africa
+National Stadium,167,154,35,Green,246,     Pakistan
+"Jinnah Stadium, Sialkot",134,122,20,Dead,185,     Pakistan
+Rawalpindi Cricket Stadium,127,116,11,Dusty,236,     Pakistan
+Multan Cricket Stadium,145,139,19,Green,242,     Pakistan
+Arbab Niaz Stadium,136,135,7,Dead,222,     Pakistan
+Bugti Stadium,121,116,11,Dead,238,     Pakistan
+Iqbal Stadium,145,137,25,Green,226,     Pakistan
+Niaz Stadium,158,138,19,Dusty,210,     Pakistan
+"Jinnah Stadium, Gujranwala",164,147,17,Dusty,200,     Pakistan
+Darren Sammy National Cricket Stadium,157,140,17,Dead,232,  West Indies
+National Cricket Stadium,166,145,15,Green,244,  West Indies
+Providence Stadium,151,140,14,Dusty,233,  West Indies
+Sir Vivian Richards Stadium,146,137,17,Dead,217,  West Indies
+Warner Park,150,135,22,Green,249,  West Indies
+Windsor Park,155,142,19,Green,246,  West Indies
+Queen's Park Oval,152,146,21,Green,196,  West Indies
+Arnos Vale Ground,159,140,15,Green,229,  West Indies
+Sabina Park,157,140,30,Dusty,232,  West Indies
+Kensington Oval,144,133,16,Dead,228,  West Indies
+Asgiriya Stadium,138,128,13,Dead,165,    Sri Lanka
+Colombo Cricket Club Ground,152,148,18,Green,210,    Sri Lanka
+Galle International Stadium,137,120,18,Dusty,190,    Sri Lanka
+Mahinda Rajapaksa International Cricket Stadium,100,100,20,Green,265,    Sri Lanka
+P Sara Oval,115,110,21,Dead,174,    Sri Lanka
+Pallekele International Cricket Stadium,80,75,16,Green,270,    Sri Lanka
+R.Premadasa Stadium,135,120,25,Dusty,216,    Sri Lanka
+Rangiri Dambulla International Stadium,125,118,18,Dead,198,    Sri Lanka
+Sinhalese Sports Club,110,109,22,Dusty,189,    Sri Lanka
+Tyronne Fernando Stadium,120,112,20,Dead,149,    Sri Lanka
+Ghazi Amanullah International Cricket Stadium,160,140,18,Dusty,229,  Afghanistan
+Kandahar International Cricket Stadium,165,145,25,Green,221,  Afghanistan
+Kabul National Cricket Stadium,170,152,29,Dusty,237,  Afghanistan
+Khost City Stadium,167,138,19,Dead,209,  Afghanistan
+Balkh Cricket Stadium,163,144,25,Dusty,242,  Afghanistan
+Bangabandhu National Stadium,105,68,15,Dusty,225,  Bangladesh
+M.A. Aziz Stadium,110,90,18,Dead,155,  Bangladesh
+Shaheed Chandu Stadium,124,109,22,Dusty,197,  Bangladesh
+Khan Shaheb Osman Ali Stadium,134,115,25,Green,239,  Bangladesh
+Sheikh Abu Naser Stadium,183,137,26,Dead,180,  Bangladesh
+Sher-e-Bangla Stadium,186,136,23,Dusty,225,  Bangladesh
+Zayed Sports City Stadium,180,136,20,Dead,225,      Dubai
+Mohammed bin Rashid Stadium,167,142,21,Dead,227,      Dubai
+Hazza Bin Zayed Stadium,155,140,26,Dusty,229,      Dubai
+Dubai International Stadium,169,153,26,Dusty,227,      Dubai
+Sharjah Cricket Stadium,172,155,26,Dead,208,      Dubai
